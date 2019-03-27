@@ -399,6 +399,8 @@ footer
   display: flex;
   flex-direction: row;
   justify-content: center;
+  margin-top: 232px;
+  justify-content: left;
 }
 
 #footerCon
